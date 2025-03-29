@@ -21,9 +21,9 @@ func main() {
 	apiHandler := orcidapi.ApiHandler{AccessToken: secrets.AccessToken}
 	record := apiHandler.NewRecord(testId)
 
-	data, err := record.GetFull()
+	data, err := record.Person()
 	if err != nil {
-
+		fmt.Print(err)
 	}
 	fmt.Printf("%v", data)
 

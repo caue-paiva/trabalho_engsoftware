@@ -1,0 +1,63 @@
+{
+  "last-modified-date" : null,
+  "name" : {
+    "created-date" : {
+      "value" : 1718760255444
+    },
+    "last-modified-date" : {
+      "value" : 1718760255444
+    },
+    "given-names" : {
+      "value" : "Caue"
+    },
+    "family-name" : {
+      "value" : "Paiva Lira"
+    },
+    "credit-name" : null,
+    "source" : null,
+    "visibility" : "public",
+    "path" : "0009-0007-8094-7155"
+  },
+  "other-names" : {
+    "last-modified-date" : null,
+    "other-name" : [ ],
+    "path" : "/0009-0007-8094-7155/other-names"
+  },
+  "biography" : {
+    "created-date" : {
+      "value" : 1743250243815
+    },
+    "last-modified-date" : {
+      "value" : 1743250243815
+    },
+    "content" : "Computer Science Student at university of São Paulo",
+    "visibility" : "public",
+    "path" : "/0009-0007-8094-7155/biography"
+  },
+  "researcher-urls" : {
+    "last-modified-date" : null,
+    "researcher-url" : [ ],
+    "path" : "/0009-0007-8094-7155/researcher-urls"
+  },
+  "emails" : {
+    "last-modified-date" : null,
+    "email" : [ ],
+    "path" : "/0009-0007-8094-7155/email"
+  },
+  "addresses" : {
+    "last-modified-date" : null,
+    "address" : [ ],
+    "path" : "/0009-0007-8094-7155/address"
+  },
+  "keywords" : {
+    "last-modified-date" : null,
+    "keyword" : [ ],
+    "path" : "/0009-0007-8094-7155/keywords"
+  },
+  "external-identifiers" : {
+    "last-modified-date" : null,
+    "external-identifier" : [ ],
+    "path" : "/0009-0007-8094-7155/external-identifiers"
+  },
+  "path" : "/0009-0007-8094-7155/person"
+}
