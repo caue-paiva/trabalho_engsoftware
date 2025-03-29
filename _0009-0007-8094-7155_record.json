@@ -1,0 +1,207 @@
+{
+  "activities-summary": {
+    "distinctions": {
+      "affiliation-group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/distinctions"
+    },
+    "educations": {
+      "affiliation-group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/educations"
+    },
+    "employments": {
+      "affiliation-group": [
+        {
+          "external-ids": {
+            "external-id": []
+          },
+          "last-modified-date": {
+            "value": 1718760255848
+          },
+          "summaries": [
+            {
+              "employment-summary": {
+                "created-date": {
+                  "value": 1718760255848
+                },
+                "department-name": "Institute of Mathematics and Computer Sciences (ICMC)",
+                "display-index": "1",
+                "end-date": null,
+                "external-ids": null,
+                "last-modified-date": {
+                  "value": 1718760255848
+                },
+                "organization": {
+                  "address": {
+                    "city": "São Paulo",
+                    "country": "BR",
+                    "region": null
+                  },
+                  "disambiguated-organization": {
+                    "disambiguated-organization-identifier": "https://ror.org/036rp1748",
+                    "disambiguation-source": "ROR"
+                  },
+                  "name": "Universidade de São Paulo"
+                },
+                "path": "/0009-0007-8094-7155/employment/24173767",
+                "put-code": 24173767,
+                "role-title": "Graduate Student",
+                "source": {
+                  "assertion-origin-client-id": null,
+                  "assertion-origin-name": null,
+                  "assertion-origin-orcid": null,
+                  "source-client-id": null,
+                  "source-name": {
+                    "value": "Caue Paiva Lira"
+                  },
+                  "source-orcid": {
+                    "host": "orcid.org",
+                    "path": "0009-0007-8094-7155",
+                    "uri": "https://orcid.org/0009-0007-8094-7155"
+                  }
+                },
+                "start-date": {
+                  "day": null,
+                  "month": {
+                    "value": "03"
+                  },
+                  "year": {
+                    "value": "2023"
+                  }
+                },
+                "url": null,
+                "visibility": "public"
+              }
+            }
+          ]
+        }
+      ],
+      "last-modified-date": {
+        "value": 1718760255848
+      },
+      "path": "/0009-0007-8094-7155/employments"
+    },
+    "fundings": {
+      "group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/fundings"
+    },
+    "invited-positions": {
+      "affiliation-group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/invited-positions"
+    },
+    "last-modified-date": {
+      "value": 1718760255848
+    },
+    "memberships": {
+      "affiliation-group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/memberships"
+    },
+    "path": "/0009-0007-8094-7155/activities",
+    "peer-reviews": {
+      "group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/peer-reviews"
+    },
+    "qualifications": {
+      "affiliation-group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/qualifications"
+    },
+    "research-resources": {
+      "group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/research-resources"
+    },
+    "services": {
+      "affiliation-group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/services"
+    },
+    "works": {
+      "group": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/works"
+    }
+  },
+  "history": {
+    "claimed": true,
+    "completion-date": null,
+    "creation-method": "DIRECT",
+    "deactivation-date": null,
+    "last-modified-date": {
+      "value": 1743169125946
+    },
+    "source": null,
+    "submission-date": {
+      "value": 1718760255298
+    },
+    "verified-email": true,
+    "verified-primary-email": true
+  },
+  "orcid-identifier": {
+    "host": "orcid.org",
+    "path": "0009-0007-8094-7155",
+    "uri": "https://orcid.org/0009-0007-8094-7155"
+  },
+  "path": "/0009-0007-8094-7155",
+  "person": {
+    "addresses": {
+      "address": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/address"
+    },
+    "biography": null,
+    "emails": {
+      "email": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/email"
+    },
+    "external-identifiers": {
+      "external-identifier": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/external-identifiers"
+    },
+    "keywords": {
+      "keyword": [],
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/keywords"
+    },
+    "last-modified-date": null,
+    "name": {
+      "created-date": {
+        "value": 1718760255444
+      },
+      "credit-name": null,
+      "family-name": {
+        "value": "Paiva Lira"
+      },
+      "given-names": {
+        "value": "Caue"
+      },
+      "last-modified-date": {
+        "value": 1718760255444
+      },
+      "path": "0009-0007-8094-7155",
+      "source": null,
+      "visibility": "public"
+    },
+    "other-names": {
+      "last-modified-date": null,
+      "other-name": [],
+      "path": "/0009-0007-8094-7155/other-names"
+    },
+    "path": "/0009-0007-8094-7155/person",
+    "researcher-urls": {
+      "last-modified-date": null,
+      "path": "/0009-0007-8094-7155/researcher-urls",
+      "researcher-url": []
+    }
+  },
+  "preferences": {
+    "locale": "en"
+  }
+}
