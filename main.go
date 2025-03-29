@@ -7,8 +7,9 @@ import (
 	orcidapi "orcidapi/apimodule"
 )
 
+const jsonSecretsPath = "orcidsecrets2.json"
+
 func main() {
-	const jsonSecretsPath = "orcidsecrets.json"
 
 	//orcid id secrets stored in json file
 	secrets, err := orcidapi.GetAcessToken(jsonSecretsPath)

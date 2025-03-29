@@ -43,7 +43,6 @@ func (rec RecordCaller) FullRecord() (map[string]any, error) {
 
 func (rec RecordCaller) Person() (rp RecordPerson, err error) {
 	const endpoint = "person"
-	rec.TempSaveOnFile(endpoint)
 
 	resp, err := rec.makeCall(endpoint)
 	if err != nil {
